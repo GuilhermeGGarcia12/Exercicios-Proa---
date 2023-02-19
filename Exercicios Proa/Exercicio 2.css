@@ -1,0 +1,70 @@
+#fundo{
+    position: relative;
+    background-color: rgb(104, 104, 104);
+    margin: auto;
+    width: 80%;
+    height: 650px;
+    padding: 1px;
+    margin: auto;
+}
+
+#topo{
+    position: relative;
+    width: 99.5%;
+    height: 100px;
+    background-color: rgb(1, 134, 134);
+    text-align: center;
+    padding: 2px;
+    margin: auto;
+}
+#conteudo{
+    position: absolute;
+    left: 10%;
+    top: 105px;
+    width: 60%;
+    height: 525px;
+    background-color: rgb(156, 156, 156);
+    margin: auto;
+
+}
+
+#rodape{
+    position: absolute;
+    top: 625px;
+    width: 99.5%;
+    height: 25px;
+    background-color: rgb(1, 134, 134);
+    text-align: left;
+    padding: 2px;
+    margin: auto;
+}
+
+#conteudo2{
+    position: relative;
+    width: 28%;
+    height: 175px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    border: 1px solid rgb(104, 104, 104);
+    clear: right;
+    float: right;
+}
+#conteudo3{
+    position: relative;
+    width: 28%;
+    height: 175px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border: 1px solid rgb(104, 104, 104);
+    padding: 10px;
+    clear: right;
+    float: right;    
+}
+#imagem{
+    position: absolute;
+    top: 450px;
+    left: 625px;
+    
+   
+}
